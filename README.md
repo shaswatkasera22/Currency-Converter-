@@ -21,7 +21,7 @@ Built using **HTML, Tailwind CSS, and JavaScript**, this project delivers a high
 
 ## 🧠 How It Works
 
-The application fetches real-time currency data using the **Frankfurter API** and performs:
+The application fetches real-time currency data using the **Frankfurter API** and performs: https://currency-converter-t8gl.vercel.app/
 
 * Conversion between currencies
 * Fetching latest exchange rates
